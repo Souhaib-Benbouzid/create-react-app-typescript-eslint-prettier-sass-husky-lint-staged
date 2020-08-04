@@ -6,7 +6,4 @@ module.exports = {
     '@typescript-eslint/no-use-before-define': 0,
     'no-console': 0,
   },
-  env: {
-    'jest/globals': true,
-  },
 };
